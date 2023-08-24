@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sree Tej
 - 👀 I’m interested in Application Development.
 - I am Proficient in Devloping Mobile Application in iOS and iPadOS environment.
-- 🌱 I’m currently learning phython, .NET, C#, JavaScript, SQL, SSIS, SSRS.
+- 🌱 I’m currently learning Python, .NET, C#, JavaScript, SQL, SSIS, SSRS.
 - 💞️ I’m looking to collaborate on Application development
 - 📫 How to reach me email: sreetejpeddaiahgari@gmail.com
 
